@@ -1,14 +1,14 @@
-# Kyle Outlaw CV
+# Kyle Outlaw | CV
 
 
 ## Hello! 
-I’m Kyle (he/him/his), an UX/UI design leader based out of New York. I am an advocate for human-centered design in an era of exponential growth in AI and big data. My main areas of focus have been on UX/UI design, rapid prototyping, user research and testing, data-driven design, design systems, and mentoring other designers. These Days I'm most interested in the decentralized web and advances in AI and machine learning as well as the implications for both the tools that we use and the experiences that we build for customers. When not working I like to travel, run, meditate, read sketch, play bass guitar, attempt to create analog and digital art, listen to music, and eat vegan food. 
+I'm Kyle, a UX/UI leader based out of New York. My main areas of focus have been on human-centered design, rapid prototyping, user research and testing, data-driven design, and mentoring. These days I've been most intersted in the decentralized web, and advances in AI and machine learning — as well as the implications for both the tools we use and the experiences that we build for customers.
 
 kyleoutlaw.io  |  koutlaw@protonmail.com  |  +1(503)8664249
 
 
 ## About me
-I have 20+ years in digital design, and I have worked for agencies including Publicis Sapient, Razorfish. R/GA, and helped found a startup that was sold for $44 million. Brands I've worked withinclude Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW (x4), IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Telecommunication Program. I have also been teaching STEM classes at Unity Preparatory Charter School in Brooklyn, consulting with Day One, a nonprofit that partners with youth to end dating abuse and domestic violence, and Ubiquity University's Global Regeneration Corps, an organization focused on raising awareness on climate change, and I am a mentor for the Women's Leadership Network (WLN).
+I have 20+ years in digital design, and I have worked for agencies including Publicis Sapient, Razorfish. R/GA, and helped found a startup that was sold for $44 million. Brands I've worked withinclude Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW (x4), IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I have also been teaching STEM classes at Unity Preparatory Charter School in Brooklyn, consulting with Day One, a nonprofit that partners with youth to end dating abuse and domestic violence, and Ubiquity University's Global Regeneration Corps, an organization focused on raising awareness on climate change, and I am a mentor for the Women's Leadership Network (WLN). I am a graduate of NYU's Telecommunication Program. Before starting my design career I taught English in Japan for two and a half years and travelled around Asia with my mountain bike. When not working I like to travel, run, meditate, read, sketch, play bass guitar, attempt to create analog and digital art, listen to music, and eat vegan food.
 
 
 
@@ -34,6 +34,9 @@ I was a founding member of WorldNow, a startup venture that became the nation's 
 
 ### Modem Media/Poppe Tyson - Senior Art Director - January 1996 to March 1999
 Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
+
+### Other gigs
+Freelance graphic designer at Unitel Video, New York Public Interest Research Group (NYPIRG), ESL Instructor in Yamaguchi, Japan, Tech Support at MCI Telecommunications in Washington DC.
 
 
 ## Education
