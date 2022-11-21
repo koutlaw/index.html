@@ -35,7 +35,7 @@ I was a founding member of WorldNow, a startup venture that became the nation's 
 ### Modem Media/Poppe Tyson - Senior Art Director - January 1996 to March 1999
 Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
-### Other gigs
+### Previous gigs
 Freelance graphic designer at Unitel Video, New York Public Interest Research Group (NYPIRG), ESL Instructor in Yamaguchi, Japan, Tech Support at MCI Telecommunications in Washington DC.
 
 
