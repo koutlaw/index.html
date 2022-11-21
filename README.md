@@ -1,8 +1,8 @@
 🤔 HELLO WORLD! 
 
 - 🔭 I’m currently working on experience design projects for various companies and non-profits.
-- 😄 Pronouns: he/his
 - 🌱 I’m currently learning about AI and generative art. Using Codepen, Stable Diffusion, and OpenAI's GPT-3 Text geneartor and DALL-E.
+- 😄 Pronouns: he/his
 - 📫 How to reach me: 
 - <a href="https://kyleoutlaw.io">Website</a>
 - <a href="https://www.linkedin.com/in/koutlaw/">Linkedin</a>
