@@ -14,6 +14,3 @@ Pronouns: he/his
 
 
 
-![desperad0_An_apartment_in_Amsterdam_with_a_large_TV_monitor_dis_506c7d6d-3bc3-4a3f-ad6e-6b395cd28ee0](https://user-images.githubusercontent.com/3966741/203324280-6e8231ce-0283-4db9-8472-10ac5dafa2a9.png)
-
-
