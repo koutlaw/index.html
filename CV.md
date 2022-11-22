@@ -101,9 +101,9 @@ Advice on Designing Mobile Sites and Apps, Poynter https://www.poynter.org/repor
 
 ## Select awards
 
-2 Clios for Branded Entertaiment and Innovation
+D&AD - Wood Pencil
 
-D&AD - Wood PencilOMMA Award - Online Advertising Creativity 
+OMMA Award - Online Advertising Creativity 
 
 Art Director's Club - GoldClio - Gold, Silver, Bronze 
 
