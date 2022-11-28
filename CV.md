@@ -8,7 +8,7 @@ I'm Kyle, a UX/UI leader based out of New York. My main areas of focus have been
 
 
 ## About me
-I have 20+ years in digital design, and I have worked for agencies including Publicis Sapient, Razorfish. R/GA, and helped found a startup that was sold for $44 million. Brands I've worked withinclude Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW (x4), IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Telecommunication Program. 
+I have 20+ years in digital design, and I have worked for agencies including Publicis Sapient, Razorfish. R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW (x4), IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Telecommunication Program. 
 
 Before starting my design career I taught English in Japan for two and a half years and travelled around Asia with my mountain bike. When not working I like to travel, run, meditate, read, sketch, play bass guitar, attempt to create analog and digital art, listen to music, and eat vegan food.
 
