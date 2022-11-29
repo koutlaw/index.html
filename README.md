@@ -2,7 +2,7 @@
 
 I'm Kyle, a UX/UI leader based out of New York. My main areas of focus have been on human-centered design, rapid prototyping, user research and testing, data-driven design, and mentoring. These days I've been most intersted in the decentralized web, and advances in AI and machine learning — as well as the implications for both the tools we use and the experiences that we build for customers.
 
-I’m learning about AI and generative art. Using Codepen, Stable Diffusion, Midjourney and OpenAI's GPT-3 Text generator and DALL-E.
+I’m learning about AI and generative art. Using Codepen, Stable Diffusion, Midjourney, Processing, P5, and OpenAI's GPT-3 Text generator and DALL-E.
 
 Pronouns: he/his
 
