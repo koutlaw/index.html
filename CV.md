@@ -54,43 +54,45 @@ B.A., International Relations, Maxwell School of Citizenship with a minor in Fre
 
 ## Speaking and workshops
 
-Internet Freedom Festival UX Clinic - Valencia, Spain 2018/2019
+Internet Freedom Festival UX Clinic | Valencia, Spain 2018/2019
 
-IXDA16, "The Privacy Invasions: A Designers Guide to Life After Snowden" - Helsinki, Finland 2016
+IXDA16, "The Privacy Invasions: A Designers Guide to Life After Snowden" | Helsinki, Finland 2016
 
-SXSW Interactive, "Shredding Wires with Rapid Prototyping" - Austin, Texas 2015 (Workshop)
+SXSW Interactive, "Shredding Wires with Rapid Prototyping" | Austin, Texas 2015 (Workshop)
 
-Big Apps NYC, "Rapid Prototyping and the Future of UX" - New York, NY 2014 (Presenter and Mentor)
+Big Apps NYC, "Rapid Prototyping and the Future of UX" | New York, NY 2014 (Presenter and Mentor)
 
-NYC UXPA, “The UX of TV: A New Frontier for Usability Professionals” - New York, NY 2012 (Presenter)
+NYC UXPA, “The UX of TV: A New Frontier for Usability Professionals” | New York, NY 2012 (Presenter)
 
-SXSW Interactive, “The UX of Mobile” - Austin, Texas 2010 (Panel Organizer and Panelist)
+SXSW Interactive, “The UX of Mobile” | Austin, Texas 2010 (Panel Organizer and Panelist)
 
-OMMA Mobile, ”Up Your App! The Application Platform Vs. The Mobile Web ” - Los Angeles, CA 2009 (Panelist)
+OMMA Mobile, ”Up Your App! The Application Platform Vs. The Mobile Web ” | Los Angeles, CA 2009 (Panelist)
 OMMA Global, ”Is the iPhone a Big Shiny Distraction” - New York, NY 2009 (Panelist)
 
-Think Mobile presented by Mediabistro.com, “Design Matters” - New York 2009 (Presenter)
+Think Mobile presented by Mediabistro.com, “Design Matters” | New York 2009 (Presenter)
 
-SXSW Interactive, “Mobile Ubiquitous Computing and the Future of Money” - Austin, Texas 2009 (Panel Organizer and Moderator)
+SXSW Interactive, “Mobile Ubiquitous Computing and the Future of Money” | Austin, Texas 2009 (Panel Organizer and Moderator)
 
-SXSW Interactive, “Life After the iPhone” - Austin, Texas 2008 (Organizer and Panelist) 
+SXSW Interactive, “Life After the iPhone” | Austin, Texas 2008 (Organizer and Panelist) 
 
 ## Volunteering
 
-Day One, a nonprofit that partners with youth to end dating abuse and domestic violence. UX/UI consulting, Javascript/CSS/HTML, WordPress. - NYC 2018-present
+Day One, a nonprofit that partners with youth to end dating abuse and domestic violence. UX/UI consulting, Javascript/CSS/HTML, WordPress. | NYC 2018-present
 
-STEM Instructor at Unity Preparatory Charter School - Brooklyn NY 2020-2022
+STEM Instructor at Unity Preparatory Charter School | Brooklyn NY 2020-2022
 
-Women’s Leadership Network Mentor - 2020-present
+Women’s Leadership Network Mentor | 2020-present
 
-Ubiquity University,  Global Regeneration Corps website focused on raising awareness on climate change, UX/UI, animation and accessibility consulting. - 2021
+Democratic Socialists of America. Joel Brooks for Jersey City Council election campaign. Website UX/UI consulting | 2021
 
-Big Apps NYC, Annual competition sponsored by the New York City Economic Development Corporation. Mentor. - New York, NY 2014 
+Ubiquity University,  Global Regeneration Corps website focused on raising awareness on climate change, UX/UI, animation and accessibility consulting. | 2021
+
+Big Apps NYC, Annual competition sponsored by the New York City Economic Development Corporation. Mentor. | New York, NY 2014 
 
 
 ## Press
 
-From The New York Times to Quartz, which publisher is king of the visual web? - Digiday https://digiday.com/sponsored/gumgumbcs-001-782-from-the-washington-post-to-quartz-which-publisher-is-king-of-the-visual-homepage/
+From The New York Times to Quartz, which publisher is king of the visual web? | Digiday https://digiday.com/sponsored/gumgumbcs-001-782-from-the-washington-post-to-quartz-which-publisher-is-king-of-the-visual-homepage/
 
 Little Love for the Mobile Web in App-Adoring World, Adage http://adage.com/article/digital/love-mobile-web-app-adoring-world/142894/ 
 
@@ -101,11 +103,11 @@ Advice on Designing Mobile Sites and Apps, Poynter https://www.poynter.org/repor
 
 ## Select awards
 
-D&AD - Wood Pencil
+D&AD | Wood Pencil
 
-OMMA Award - Online Advertising Creativity 
+OMMA Award | Online Advertising Creativity 
 
-Art Director's Club - GoldClio - Gold, Silver, Bronze 
+Art Director's Club | GoldClio - Gold, Silver, Bronze 
 
 Cannes Shortlist
 
@@ -117,9 +119,9 @@ WMA Webaward for Outstanding Achievement in Web Development
 
 Webby Award
 
-IAB Mixx Awards - Gold, Silver
+IAB Mixx Awards | Gold, Silver
 
-The One Show - Gold, Silver Pencils                                                                           
+The One Show | Gold, Silver Pencils                                                                           
 
 Google Creative Sandbox
 
