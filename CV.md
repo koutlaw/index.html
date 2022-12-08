@@ -52,6 +52,14 @@ School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. 
 ### Syracuse University
 B.A., International Relations, Maxwell School of Citizenship with a minor in French. Syracuse University, Syracuse NY. 
 
+## Certifications
+
+A.I. Ready Programme | Level One | John Maeda 
+
+Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
+
+Web Accessibility Testing: Screen Readers | Deque University 
+
 ## Speaking and workshops
 
 Internet Freedom Festival UX Clinic | Valencia, Spain 2018/2019
