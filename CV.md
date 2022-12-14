@@ -44,7 +44,7 @@ Freelance graphic designer at Unitel Video, community outreach staff member at N
 ## Education
 
 ### NYU ITP 
-M.P.S., New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, and media theory. Mentored by media theorist Douglas Rushkoff.
+M.P.S., New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, and media theory. Mentored by media theorist Douglas Rushkoff. | September 2003 to May 2005
 
 ### SVA
 School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. Studies focused on computer art, animation and abstract painting. 
