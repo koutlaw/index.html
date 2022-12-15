@@ -85,6 +85,8 @@ SXSW Interactive, “Life After the iPhone” | Austin, Texas 2008 (Organizer an
 
 ## Volunteering
 
+QTBIPOC Design, UX Bootcamp Portfolio Reviewer | 2022
+
 Day One, a nonprofit that partners with youth to end dating abuse and domestic violence. UX/UI consulting, Javascript/CSS/HTML, WordPress. | NYC 2018-present
 
 STEM Instructor at Unity Preparatory Charter School | Brooklyn NY 2020-2022
