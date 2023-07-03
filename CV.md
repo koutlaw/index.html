@@ -19,7 +19,7 @@ User research, data-driven design, ideation workshops, information architecture,
 
 ## Employment history
 
-### Publicis Digital Experiences Group | SVP Executive Experience Director, Experience | January 2022 to present
+### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to present
 UX lead for the Mercedes-Benz account which includes the US and Canada passenger car websites, Mercedes me owners app, MB Vans, dealership tools and immersive experiences, and Mercedes-Benz financial services. Currently the account is at 40mm in annual revenue with over 100 team members. I have initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. I collaborated on several projects with the design and engineering teams at Daimler in Germany. I manage experience directors and designers, and am active in the leadership of the account as a whole. Created and ran an 8-week innovation challenge program for our interns focused on critical thinking regarding the metaverse and Web 3.0. Member of the account’s Equality in Action committee, focused on volunteering initiatives. Mentor for the Women’s Leadership Network.
 
 ### Razorfish/Publicis Sapient | VP, Senior Creative Group Director, Experience | May 2011 to Dec 2021
