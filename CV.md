@@ -95,7 +95,7 @@ Women’s Leadership Network Mentor | 2020-present
 
 Ubiquity University,  Global Regeneration Corps website focused on raising awareness on climate change, UX/UI, animation and accessibility consulting. | 2021
 
-NYC BigApps, Annual competition sponsored by the New York City Economic Development Corporation. Mentor. | New York, NY 2014 
+NYC BigApps, annual competition sponsored by the New York City Economic Development Corporation. Mentor. | New York, NY 2014 
 
 
 ## Press
