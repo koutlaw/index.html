@@ -4,8 +4,6 @@ I'm Kyle, a UX/UI leader based out of New York. My main areas of focus have been
 
 I’m learning about AI and generative art. Using Codepen, Stable Diffusion, Midjourney, Processing, P5, and OpenAI's GPT-3 Text generator and DALL-E.
 
-Pronouns: he/his
-
 - 📫 How to reach me: 
 - <a href="https://kyleoutlaw.io">Website</a>
 - <a href="https://www.linkedin.com/in/koutlaw/">Linkedin</a>
