@@ -8,7 +8,7 @@ I'm Kyle, a product design leader based out of New York. My main areas of focus 
 
 
 ## About me
-I have 20+ years in digital design, and I have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Interactive Telecommunication Program. 
+I have 20+ years experience in digital design, and have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Interactive Telecommunication Program. 
 
 Before starting my design career I taught English in Japan for two and a half years and travelled around Asia with my mountain bike. When not working I like to travel, run, meditate, read, sketch, play bass guitar, create analog and digital art, listen to music, and eat vegan food.
 
@@ -20,9 +20,9 @@ Before starting my design career I taught English in Japan for two and a half ye
   
 ## Employment history
 
-### Stranger Creative | Head of Product| October 2023 to Present
+### Stranger Creative | Head of Product | October 2023 to Present
 
-Stranger Creative is an independent creative agency that provides creative, UX services to clients such as Google, New York Life, Unilever, Glossier, and American Eagle. Partnering with managing director to scale the business through operational support and business growth initiatives. Leveraging leadership skills and experience to model, prototype, and iterate on ways to improve Stranger Creative’s processes. Collaborating with cross-functional teams and stakeholders, including Product Design, Brand and Marketing, and User Experience Research teams.  
+Stranger Creative is an independent creative agency that provides creative, UX services to clients such as Google, New York Life, Unilever, Glossier, and American Eagle. Partnering with managing director to scale the business through operational support and business growth initiatives. Leveraging leadership skills and experience to model, prototype, and iterate on ways to improve studio processes. Collaborating with cross-functional teams and stakeholders, including Product Design, Brand and Marketing, and User Experience Research specialists.  
 
 ### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 UX lead for the Mercedes-Benz account which includes the US and Canada passenger car websites, Mercedes me owners app, MB Vans, dealership tools and immersive experiences, and Mercedes-Benz financial services. Currently the account is at 40mm in annual revenue with over 100 team members. I have initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. I collaborated on several projects with the design and engineering teams at Daimler in Germany. I manage experience directors and designers, and am active in the leadership of the account as a whole. Created and ran an 8-week innovation challenge program for our interns focused on critical thinking regarding the metaverse and Web 3.0. Member of the account’s Equality in Action committee, focused on volunteering initiatives. Mentor for the Women’s Leadership Network.
