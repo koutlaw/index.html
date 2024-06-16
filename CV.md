@@ -105,6 +105,8 @@ NYC BigApps, annual competition sponsored by the New York City Economic Developm
 
 ## Press
 
+Cultivating a Design Culture | UX Collective https://uxdesign.cc/cultivating-a-design-culture-e1e941debe22
+
 From The New York Times to Quartz, which publisher is king of the visual web? | Digiday https://digiday.com/sponsored/gumgumbcs-001-782-from-the-washington-post-to-quartz-which-publisher-is-king-of-the-visual-homepage/
 
 Little Love for the Mobile Web in App-Adoring World, Adage http://adage.com/article/digital/love-mobile-web-app-adoring-world/142894/ 
