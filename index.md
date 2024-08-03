@@ -28,8 +28,7 @@ mel's site | my site
   <p class="about">
     <span class="about-sub-32"></span><span class="about-sub-26"></span><span></span>
     <p class="about-text">
-      Hi! My name is melano and I am a CS student, learning machine learning as a hobby. Interests    
-      include, but are not limited to books, cinema, photography, music and oh,  machines (got a hardcore thing for them, no joke).
+      Kyle Outlaw is a designer and contemplative who is on a mission to make technology usable by humans and not the other way around. A reformed atheist and lapsed Catholic who now identifies as a “spiritual slacker”, he is a third-year novice with the Community of the Incarnation and a student of Zen Buddhism. He is also the founder of Subatomik, an independent bookstore that focuses on art, technology and mysticism. 
     </p>
   
   
