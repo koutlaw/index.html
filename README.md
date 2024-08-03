@@ -27,8 +27,7 @@
   <p class="about">
     <span class="about-sub-32"></span><span class="about-sub-26"></span><span></span>
     <p class="about-text">
-      Hi! My name is melano and I am a CS student, learning machine learning as a hobby. Interests    
-      include, but are not limited to books, cinema, photography, music and oh,  machines (got a hardcore thing for them, no joke).
+      Hello World! I am a designer and contemplative who is on a mission to make technology usable by humans and not the other way around. A reformed atheist and lapsed Catholic who now identifies as a “spiritual slacker”, I is am third-year novice with the Community of the Incarnation and a student of Zen Buddhism. Also the founder of Subatomik, an independent bookstore that focuses on art, technology and mysticism. 
     </p>
   
   
@@ -38,7 +37,7 @@
   </span>
 
   <a href="https://www.github.com" class="xdot-com" id="xdot-com"></a>
-  <span class="github" style="color: white; cursor: pointer;" onclick="window.location.href='https://github.com/melqtx';">
+  <span class="github" style="color: white; cursor: pointer;" onclick="window.location.href='https://github.com/koutlaw/koutlaw';">
     gitty hub
   </span>
   
