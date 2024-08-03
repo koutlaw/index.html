@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>mel's site | my site</title>
+  <title>Hello World</title>
  <link rel="icon" type="image/jpeg" href="images/mels.jpg">
   <link rel="stylesheet" href="main.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,16 +18,14 @@
     melano
   </div>
   <header>
-    <a href="index.html">home</a>
-    <a href="posts/post.html">post</a>
-    <a href="about/about.html">about</a>
+    
   </header>
   <div class="line-1">
   </div>
   <p class="about">
     <span class="about-sub-32"></span><span class="about-sub-26"></span><span></span>
     <p class="about-text">
-      Hello World! I am a designer and contemplative who is on a mission to make technology usable by humans and not the other way around. A reformed atheist and lapsed Catholic who now identifies as a “spiritual slacker”, I is am third-year novice with the Community of the Incarnation and a student of Zen Buddhism. Also the founder of Subatomik, an independent bookstore that focuses on art, technology and mysticism. 
+      
     </p>
   
   
