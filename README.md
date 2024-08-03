@@ -1,4 +1,4 @@
-[:cat:]("#" ":cat:") **HELLO WORLD!**
+**HELLO WORLD!**
 
 
 - <a href="https://kyleoutlaw.io">Website</a>
