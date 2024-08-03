@@ -15,7 +15,7 @@
 <div class="desktop-1">
   <div class="breadcrumbs"></div>
   <div class="melano">
-    melano
+
   </div>
   <header>
     
@@ -31,12 +31,12 @@
   
   <a href="https://www.x.com" class="xdot-com" id="xdot-com"></a>
   <span class="xdot-com" style="color: white; cursor: pointer;" onclick="window.location.href='https://twitter.com/melqtx';">
-     x dot com
+
   </span>
 
   <a href="https://www.github.com" class="xdot-com" id="xdot-com"></a>
   <span class="github" style="color: white; cursor: pointer;" onclick="window.location.href='https://github.com/koutlaw/koutlaw';">
-    gitty hub
+
   </span>
   
 </div>
