@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello World</title>
+Hello World
  <link rel="icon" type="image/jpeg" href="images/mels.jpg">
   <link rel="stylesheet" href="main.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,9 +24,7 @@
   </div>
   <p class="about">
     <span class="about-sub-32"></span><span class="about-sub-26"></span><span></span>
-    <p class="about-text">
-      
-    </p>
+   
   
   
   <a href="https://www.x.com" class="xdot-com" id="xdot-com"></a>
